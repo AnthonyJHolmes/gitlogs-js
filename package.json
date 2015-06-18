@@ -1,0 +1,27 @@
+{
+  "name": "gitlogs-js",
+  "version": "1.0.0",
+  "description": "Pulls logs from commits from the last two tags under certain prefixs",
+  "main": "createLogs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnthonyJHolmes/gitlogs-js.git"
+  },
+  "keywords": [
+    "git",
+    "log",
+    "logs",
+    "javascript",
+    "prefix",
+    "tags"
+  ],
+  "author": "Anthony Holmes <anthony.holmes@teamwork.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyJHolmes/gitlogs-js/issues"
+  },
+  "homepage": "https://github.com/AnthonyJHolmes/gitlogs-js"
+}
