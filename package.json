@@ -1,6 +1,6 @@
 {
   "name": "gitlogs-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pulls logs from commits from the last two tags under certain prefixs",
   "main": "createLogs.js",
   "scripts": {
